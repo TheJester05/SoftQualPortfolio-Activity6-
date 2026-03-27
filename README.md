@@ -1,8 +1,8 @@
 I am Anton Angelo Frio and I am a game developer and a sound designer.
 
-CV Link:
+CV Link: https://docs.google.com/document/d/10dPII4KDt-NA0e9P4PpqghdVJpHpfDvlEdcQDMnfZCU/edit?usp=sharing
 
-##Projects
+###Projects
 
 ### 1. Scan Texture
 Shader Graph using Unity
